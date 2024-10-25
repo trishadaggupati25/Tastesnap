@@ -1,4 +1,4 @@
-## Tatsesnap: Recipe Generation from Food Images
+## TasteSnap: Recipe Generation from Food Images
 
 Code supporting the paper:
 
@@ -116,4 +116,4 @@ $ tensorboard --logdir='../tb_logs' --port=6006
 
 ### License
 
-inversecooking is released under MIT license, see [LICENSE](LICENSE.md) for details.
+TasteSnap is released under MIT license, see [LICENSE](LICENSE.md) for details.
