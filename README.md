@@ -1,4 +1,4 @@
-## Inverse Cooking: Recipe Generation from Food Images
+## Tatsesnap: Recipe Generation from Food Images
 
 Code supporting the paper:
 
